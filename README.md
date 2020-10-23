@@ -1,6 +1,6 @@
 # Introduction to JavaScript
 
-JavaScript is a simple programming language that is used to add interactivity to web pages. These notes provide a basic introduction to some simple JavaScript statements and how to add JavaScript to a web page.
+JavaScript is a programming language that is used to add interactivity to web pages. These notes provide a basic introduction to some simple JavaScript statements and how to add JavaScript to a web page.
 
 ## Creating a JavaScript (.js) file
 * Open a text editor. Create a new file and copy in the following code:

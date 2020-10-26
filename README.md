@@ -15,6 +15,7 @@ alert("hello world");
 <html lang="en">
 <head>
 <title>Add a title here</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
 </head>
 <body>
 All the content for the page must go here.
